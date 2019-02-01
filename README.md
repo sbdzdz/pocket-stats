@@ -1,2 +1,2 @@
 # Pocket stats
-An analysis of articles in my [Pocket](getpocket.com).
+What's in my [Pocket](getpocket.com)?
