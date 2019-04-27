@@ -1,2 +1,2 @@
 # Pocket stats
-What's in my [Pocket](getpocket.com)?
+What's in my [Pocket](https://getpocket.com)?
